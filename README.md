@@ -20,6 +20,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 
 ### Vista Previa del Proyecto
 ![Demo](/imagenes/Vistaprevia.png)
+[Acceder a Vista Previa](https://interfaz-de-pinterest-nine.vercel.app/)
 
 ### Contacto
 Nadia Peralta: [Mi LinkedIn](www.linkedin.com/in/peralta-garcía-nadia-35abb4279)
